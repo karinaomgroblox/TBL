@@ -5,7 +5,7 @@
 }
 
 #welcome {
-    height: 500px;
+    height: 800px;
     background: linear-gradient(springgreen 0%, dodgerblue 100%);
     text-align: center;
     position: absolute;
@@ -32,7 +32,7 @@
 
 body {
     text-align: center;
-    padding-top: 600px;
+    padding-top: 900px;
 }
 
 .menu {
